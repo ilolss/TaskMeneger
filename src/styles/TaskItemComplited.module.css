@@ -1,0 +1,15 @@
+.taskItem{
+    border: 3px solid rgba(5,10,100,0.94);
+    background: rgba(64,192,255,0.94);
+    padding: 15px;
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn{
+    background: #ff2025;
+    border: #ff2025;
+    width: 50px;
+}
