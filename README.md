@@ -1,4 +1,4 @@
-##Task Manager
+## Task Manager
 
 It is a simple task manager with todo list. Users can add/delete task, mark task as comlited and set deadline for a task.
 
