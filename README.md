@@ -1,6 +1,6 @@
 ## Task Manager
 
-It is a simple task manager with todo list. Users can add/delete task, mark task as comlited and set deadline for a task.
+It is a simple task manager with todo list. Users can add/delete task, mark task as completed and set deadline for a task.
 
 ## Getting Started with Create React App
 
